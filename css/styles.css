@@ -1,0 +1,84 @@
+
+.container-fluid{
+    background-color: #acaaaa;
+   
+}
+#header1{
+    color: black;
+    font-family: 'Exo 2', sans-serif;  
+    padding-left: 15px; 
+    padding-top: 0%;
+    padding-bottom: 20px;
+}
+h1{
+    margin: 0%;
+}
+.navbar-default{
+    padding: 0;
+    margin: 0;
+    
+}
+.navbar-header{
+    padding-top:15px;
+    
+    padding-bottom: 10px;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+    border: 2px solid #000 !important;
+  }
+  #list-content{
+      text-align: center;
+      color: black;
+      font-size: x-large;
+      font-weight: bolder;
+      background-color: white;
+      margin: 0;
+      padding: 0;
+    font-family: 'Exo 2', sans-serif;   
+  }
+  .navbar-default .navbar-nav>li>a {
+      color: black;
+      border: 1px solid black;
+  }
+  #list-content :hover :active :focus,.navbar-default .navbar-nav>.active>a{
+background-color: black;
+color: white;
+  }
+  #collapse-1{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+#Ourmenu{
+    font-family: 'Exo 2', sans-serif; 
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+    padding-top: 10px;
+}
+.content{
+    background-color:#acaaaa ;
+    padding: 20px;
+    margin: 15px;
+}
+.content_header{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: black;
+    text-transform: uppercase;
+}
+.conten_para{
+    text-align: justify;
+    font-size: 1.5rem;
+}
+.back{
+    text-align: center;
+    font-size: 25px;
+    background-color:#acaaaa ;
+    padding: 25px;
+}
+.back a{
+    color: #000;
+}
